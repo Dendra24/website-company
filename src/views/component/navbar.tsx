@@ -102,7 +102,7 @@ export default function Navbar() {
             </Link>
             <Link
               className="block py-2 text-blue-500 hover:text-white font-semibold"
-              href="/about-us"
+              href="/aboutUs"
             >
               About Us
             </Link>
@@ -111,6 +111,11 @@ export default function Navbar() {
               href="/teams"
             >
               Teams
+            </Link>
+            <Link 
+            className="block py-2 text-blue-500 hover:text-white font-semibold"
+            href="/gallery"
+            > Gallery
             </Link>
           </div>
         </div>

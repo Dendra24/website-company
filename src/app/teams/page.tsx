@@ -31,7 +31,7 @@ export default function Teams() {
   }, []);
 
   return (
-    <div className="bg-white mx-auto p-4">
+    <div className="bg-black mx-auto p-4">
       <h1 className="text-2xl text-black md:text-5xl font-bold text-center p-4 m-[2em]">
         Board Team
       </h1>

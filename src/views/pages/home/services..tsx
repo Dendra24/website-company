@@ -48,7 +48,11 @@ export default function Services() {
                     <button className="border-1 bg-[#28218b] font-bold text-white py-2 px-5 rounded-3xl mb-[4em] md:mb-[1em]">Pilih paket</button>
                 </div>
                 <div  className="bg-[#000000] py-[1em] px-[1em] rounded-[10%] md:mt-[5em] md:mb-[5em]">
-                
+                    <div className="py-4 px-8 bg-[#04020a] rounded-[10%] mt-4">
+                       <img 
+                       src="/images/paket-background.jpeg"
+                       />
+                    </div> 
                     <h3 className="text-white text-center mt-4 px-2 text-2xl font-bold">GALERY</h3>
                     <p className='text-white text-center mt-2'>
                     SEE ALL GALLRY OF US
