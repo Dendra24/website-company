@@ -114,7 +114,7 @@ export default function Navbar() {
             </Link>
             <Link 
             className="block py-2 text-blue-500 hover:text-white font-semibold"
-            href="/gallery"
+            href="/galleryUs"
             > Gallery
             </Link>
           </div>

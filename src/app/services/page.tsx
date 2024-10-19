@@ -1,4 +1,5 @@
 import Services from "@/views/pages/home/services."
+
 export default function ServicesView() {
     return(
         <div>
@@ -6,6 +7,7 @@ export default function ServicesView() {
                Take your Package
             </h1>
             <Services />
+           
         </div>
     )
-}
+};
